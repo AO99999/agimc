@@ -74,7 +74,7 @@ linux操作系统：
 指定可写入：右击->hosts->属性->安全->编辑->点击Users->在Users的权限“写入”后面打勾后确定.
 2、右击->hosts->打开方式->选定记事本（或其他编辑器）->在末尾处添加如下内容（例，以实际为准）：
 
-# Github
+# #Github
 13.250.177.223   github.com
 162.125.32.5  github.global.ssl.fastly.net
 185.199.109.153  assets-cdn.github.com
